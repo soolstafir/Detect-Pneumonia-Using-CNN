@@ -10,3 +10,5 @@ Follow the jupyter notebook in the order below:
 - 00 Download dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - 01 EDA.ipynb
 - 02 CNN Model.ipynb
+
+The current project was inspired by the following [project](https://github.com/alohajenny/Detect-Pneumonia-Using-Deep-Learning)
